@@ -36,4 +36,4 @@ Result = 100
 
 **Abdul Basit**
 
-GitHub: **mrbasu22**
+GitHub: https://github.com/mrbasu22
